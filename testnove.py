@@ -1,2 +1,2 @@
 print("todle nahraju na git")
-#todle nahraju do dev
+#todle nahraju do dev lololo
